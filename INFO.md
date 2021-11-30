@@ -1,3 +1,3 @@
-git is awesome!
+I fight for freedom!
 new line
 experiment with amend
